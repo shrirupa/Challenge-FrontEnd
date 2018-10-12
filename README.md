@@ -15,18 +15,18 @@ The project is a front-end implementation of the challenge.
 ### Implemented Parts
 
 I have implemented the following three views for application:
-*Doctor View
+#### Doctor View
  - View Appointments
  - Prescribe Medication
  - Prescribed Medication
- *Patient View
+ #### Patient View
  - Book Appointments
  - View Prescribed Medication
- *Admin View
+ #### Admin View
  - Delete Doctors from system
  - Edit Patient Info(Under Construction)
  
- Other screens in the application are:
+ #### Other screens in the application are:
  - Login Page
  - Registeration Page
 
